@@ -1,8 +1,8 @@
 ---
 
-# Kaguya Extension
+# FBstate Extension
 
-![Facebook Cookie and State Extractor](https://github.com/ttkienn/KaguyaExtension/assets/87187870/ce66b68a-2a05-452d-9df1-4c4316594b3c)
+![Facebook Cookie and State Extractor](https://i.imgur.com/xwcm0yg.png)
 
 This utility is an extension that allows you to retrieve Facebook cookies and account state data. You can view your cookies, copy them to the clipboard, and even download your account state in JSON format.
 
